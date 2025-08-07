@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: linear-gradient(135deg, #8e44ad, #f1c40f); /* degradê roxo para amarelo */
+  background: linear-gradient(135deg, #8e44ad, #f1c40f); 
 
 
 .mensagem {
